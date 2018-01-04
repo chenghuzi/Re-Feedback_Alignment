@@ -2,7 +2,7 @@
 
 ![](figs/e1.png)
 
-This repo is to replicate (partially) the result of T. P. Lillicrap, D. Cownden, D. B. Tweed, and C. J. Akerman, “Random synaptic feedback weights support error backpropagation for deep learning,” Nature Communications, vol. 7, pp. 1–10, 1AD.
+This repo is trying to replicate (partially) the result of T. P. Lillicrap, D. Cownden, D. B. Tweed, and C. J. Akerman, “Random synaptic feedback weights support error backpropagation for deep learning,” Nature Communications, vol. 7, pp. 1–10, 1AD.
 
 
 
