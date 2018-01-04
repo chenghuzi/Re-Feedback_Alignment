@@ -2,9 +2,9 @@
 
 ![](figs/e1.png)
 
-This repo is trying to replicate (partially) the result of T. P. Lillicrap, D. Cownden, D. B. Tweed, and C. J. Akerman, “Random synaptic feedback weights support error backpropagation for deep learning,” Nature Communications, vol. 7, pp. 1–10, 1AD.
+Trying to replicate (partially) the result of Feedback Alignment Algorithm[1].
 
-
+### Instruction
 
 `re1.py` is for the simple linear network.
 
@@ -15,3 +15,8 @@ This repo is trying to replicate (partially) the result of T. P. Lillicrap, D. C
 Result in `figs/e1.png` seems great.
 
 Performance of `figs/e2.png` matches the result in the paper also, whereas the change of angle is not so close to that of the paper.
+
+
+### Reference
+
+[1]	T. P. Lillicrap, D. Cownden, D. B. Tweed, and C. J. Akerman, “Random synaptic feedback weights support error backpropagation for deep learning,” Nature Communications, vol. 7, pp. 1–10, 1AD.
