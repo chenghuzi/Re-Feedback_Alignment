@@ -10,4 +10,8 @@ This repo is to replicate (partially) the result of T. P. Lillicrap, D. Cownden,
 
 `re2.py` is for the nolinear network on MNIST dataset.
 
-Result in `figs/e1.png` mathes with the that in the paper very well; Performance of `figs/e2.png` matches well, whereas the angle are not so proper when compared with the paper.
+`check2.py` is for the evaluation of the network on MNIST dataset.
+
+Result in `figs/e1.png` seems great.
+
+Performance of `figs/e2.png` matches the result in the paper also, whereas the change of angle is not so close to that of the paper.

@@ -5,6 +5,8 @@
 Modified from https://github.com/pytorch/examples/blob/master/mnist/main.py
 Used for testing raw nolinear network and feedback alignment.
 deeper neural network
+
+benchmark
 """
 
 from __future__ import print_function
